@@ -81,8 +81,8 @@ horizontal_distance_from_CG_to_front_axle = 1.4; %m
 horizontal_distance_from_CG_to_rear_axle = 1.6; %m
 CG_height_above_ground = 0.5; %m
 gravitational_acceleration = 9.81; %m/s^2
-front_area = 2.13; %m^2
-drag_coefficient = 0.32; %
+front_area = 2.13; %m^2 
+drag_coefficient = 0.29; %
 air_density = 1.18; %kg/m^3
 initial_velocity = 50; %m/s
 
