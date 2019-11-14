@@ -20,7 +20,7 @@ engine_initial_normalized_throttle = 0.15; %
 engine_speed_threshold = 20; %rpm
 
 %engine fuel consumption
-engine_displaced_volume = 400; %cm^3
+engine_displaced_volume = 1395; %cm^3
 engine_revolutions_per_cycle = 2;
 engine_speed_vector = [ 1000 2e+3 3e+3 4e+3 5e+3 6e+3 ]; %rpm
 engine_brake_mean_effective_pressure_vector = [ 0 250 500 625 750 1000 1.15e+3 1.25e+3 ]; %kPa
