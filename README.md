@@ -15,7 +15,7 @@ In order to well run the files, you will need
 In order to see other documents that explains better our simulations, please visit:
 
 - [Project Synthesis (French)](https://www.overleaf.com/read/qsnrykchzpzj)
-- [Project slides (French)](https://www.overleaf.com/read/pppgmgrvmrrh)
+- Project slides (French) is at our repository
 
 ## Authors
 - Matheus Elyasha LOPES
